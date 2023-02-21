@@ -1,0 +1,4 @@
+html{
+    font-size: 20px;/*pxquiere decir que "pixeles: el tamaño de la fuente base es ahora de 10 pixeles de altura */
+    font-family: "Open Sans",sans-serif;/*Este debe ser el resto del resultado que obtuviste de google fonts*/
+}
